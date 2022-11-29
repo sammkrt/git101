@@ -1,1 +1,9 @@
 push ogreniyorum
+push ogreniyorum
+push ogreniyorum
+push ogreniyorum
+push ogreniyorum
+push ogreniyorum
+push ogreniyorum
+push ogreniyorum
+push ogreniyorum
