@@ -1,0 +1,12 @@
+/home/samkrt/salt/siniflar/yeni/bin/Debug/net7.0/yeni.deps.json
+/home/samkrt/salt/siniflar/yeni/bin/Debug/net7.0/yeni.dll
+/home/samkrt/salt/siniflar/yeni/bin/Debug/net7.0/yeni.pdb
+/home/samkrt/salt/siniflar/yeni/obj/Debug/net7.0/yeni.csproj.AssemblyReference.cache
+/home/samkrt/salt/siniflar/yeni/obj/Debug/net7.0/yeni.GeneratedMSBuildEditorConfig.editorconfig
+/home/samkrt/salt/siniflar/yeni/obj/Debug/net7.0/yeni.AssemblyInfoInputs.cache
+/home/samkrt/salt/siniflar/yeni/obj/Debug/net7.0/yeni.AssemblyInfo.cs
+/home/samkrt/salt/siniflar/yeni/obj/Debug/net7.0/yeni.csproj.CoreCompileInputs.cache
+/home/samkrt/salt/siniflar/yeni/obj/Debug/net7.0/yeni.dll
+/home/samkrt/salt/siniflar/yeni/obj/Debug/net7.0/refint/yeni.dll
+/home/samkrt/salt/siniflar/yeni/obj/Debug/net7.0/yeni.pdb
+/home/samkrt/salt/siniflar/yeni/obj/Debug/net7.0/ref/yeni.dll

@@ -1,0 +1,15 @@
+/home/samkrt/salt/siniflar/bin/Debug/net7.0/siniflar
+/home/samkrt/salt/siniflar/bin/Debug/net7.0/siniflar.deps.json
+/home/samkrt/salt/siniflar/bin/Debug/net7.0/siniflar.runtimeconfig.json
+/home/samkrt/salt/siniflar/bin/Debug/net7.0/siniflar.dll
+/home/samkrt/salt/siniflar/bin/Debug/net7.0/siniflar.pdb
+/home/samkrt/salt/siniflar/obj/Debug/net7.0/siniflar.csproj.AssemblyReference.cache
+/home/samkrt/salt/siniflar/obj/Debug/net7.0/siniflar.GeneratedMSBuildEditorConfig.editorconfig
+/home/samkrt/salt/siniflar/obj/Debug/net7.0/siniflar.AssemblyInfoInputs.cache
+/home/samkrt/salt/siniflar/obj/Debug/net7.0/siniflar.AssemblyInfo.cs
+/home/samkrt/salt/siniflar/obj/Debug/net7.0/siniflar.csproj.CoreCompileInputs.cache
+/home/samkrt/salt/siniflar/obj/Debug/net7.0/siniflar.dll
+/home/samkrt/salt/siniflar/obj/Debug/net7.0/refint/siniflar.dll
+/home/samkrt/salt/siniflar/obj/Debug/net7.0/siniflar.pdb
+/home/samkrt/salt/siniflar/obj/Debug/net7.0/siniflar.genruntimeconfig.cache
+/home/samkrt/salt/siniflar/obj/Debug/net7.0/ref/siniflar.dll

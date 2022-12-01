@@ -1,0 +1,15 @@
+/home/samkrt/salt/siniflar/w3school/bin/Debug/net7.0/w3school
+/home/samkrt/salt/siniflar/w3school/bin/Debug/net7.0/w3school.deps.json
+/home/samkrt/salt/siniflar/w3school/bin/Debug/net7.0/w3school.runtimeconfig.json
+/home/samkrt/salt/siniflar/w3school/bin/Debug/net7.0/w3school.dll
+/home/samkrt/salt/siniflar/w3school/bin/Debug/net7.0/w3school.pdb
+/home/samkrt/salt/siniflar/w3school/obj/Debug/net7.0/w3school.csproj.AssemblyReference.cache
+/home/samkrt/salt/siniflar/w3school/obj/Debug/net7.0/w3school.GeneratedMSBuildEditorConfig.editorconfig
+/home/samkrt/salt/siniflar/w3school/obj/Debug/net7.0/w3school.AssemblyInfoInputs.cache
+/home/samkrt/salt/siniflar/w3school/obj/Debug/net7.0/w3school.AssemblyInfo.cs
+/home/samkrt/salt/siniflar/w3school/obj/Debug/net7.0/w3school.csproj.CoreCompileInputs.cache
+/home/samkrt/salt/siniflar/w3school/obj/Debug/net7.0/w3school.dll
+/home/samkrt/salt/siniflar/w3school/obj/Debug/net7.0/refint/w3school.dll
+/home/samkrt/salt/siniflar/w3school/obj/Debug/net7.0/w3school.pdb
+/home/samkrt/salt/siniflar/w3school/obj/Debug/net7.0/w3school.genruntimeconfig.cache
+/home/samkrt/salt/siniflar/w3school/obj/Debug/net7.0/ref/w3school.dll
