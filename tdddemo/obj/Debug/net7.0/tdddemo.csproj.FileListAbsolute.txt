@@ -1,0 +1,15 @@
+/home/samkrt/salt/tdddemo/bin/Debug/net7.0/tdddemo
+/home/samkrt/salt/tdddemo/bin/Debug/net7.0/tdddemo.deps.json
+/home/samkrt/salt/tdddemo/bin/Debug/net7.0/tdddemo.runtimeconfig.json
+/home/samkrt/salt/tdddemo/bin/Debug/net7.0/tdddemo.dll
+/home/samkrt/salt/tdddemo/bin/Debug/net7.0/tdddemo.pdb
+/home/samkrt/salt/tdddemo/obj/Debug/net7.0/tdddemo.csproj.AssemblyReference.cache
+/home/samkrt/salt/tdddemo/obj/Debug/net7.0/tdddemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/samkrt/salt/tdddemo/obj/Debug/net7.0/tdddemo.AssemblyInfoInputs.cache
+/home/samkrt/salt/tdddemo/obj/Debug/net7.0/tdddemo.AssemblyInfo.cs
+/home/samkrt/salt/tdddemo/obj/Debug/net7.0/tdddemo.csproj.CoreCompileInputs.cache
+/home/samkrt/salt/tdddemo/obj/Debug/net7.0/tdddemo.dll
+/home/samkrt/salt/tdddemo/obj/Debug/net7.0/refint/tdddemo.dll
+/home/samkrt/salt/tdddemo/obj/Debug/net7.0/tdddemo.pdb
+/home/samkrt/salt/tdddemo/obj/Debug/net7.0/tdddemo.genruntimeconfig.cache
+/home/samkrt/salt/tdddemo/obj/Debug/net7.0/ref/tdddemo.dll

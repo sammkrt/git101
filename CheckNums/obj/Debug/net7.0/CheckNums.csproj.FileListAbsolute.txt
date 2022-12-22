@@ -1,0 +1,15 @@
+/home/samkrt/salt/CheckNums/bin/Debug/net7.0/CheckNums
+/home/samkrt/salt/CheckNums/bin/Debug/net7.0/CheckNums.deps.json
+/home/samkrt/salt/CheckNums/bin/Debug/net7.0/CheckNums.runtimeconfig.json
+/home/samkrt/salt/CheckNums/bin/Debug/net7.0/CheckNums.dll
+/home/samkrt/salt/CheckNums/bin/Debug/net7.0/CheckNums.pdb
+/home/samkrt/salt/CheckNums/obj/Debug/net7.0/CheckNums.csproj.AssemblyReference.cache
+/home/samkrt/salt/CheckNums/obj/Debug/net7.0/CheckNums.GeneratedMSBuildEditorConfig.editorconfig
+/home/samkrt/salt/CheckNums/obj/Debug/net7.0/CheckNums.AssemblyInfoInputs.cache
+/home/samkrt/salt/CheckNums/obj/Debug/net7.0/CheckNums.AssemblyInfo.cs
+/home/samkrt/salt/CheckNums/obj/Debug/net7.0/CheckNums.csproj.CoreCompileInputs.cache
+/home/samkrt/salt/CheckNums/obj/Debug/net7.0/CheckNums.dll
+/home/samkrt/salt/CheckNums/obj/Debug/net7.0/refint/CheckNums.dll
+/home/samkrt/salt/CheckNums/obj/Debug/net7.0/CheckNums.pdb
+/home/samkrt/salt/CheckNums/obj/Debug/net7.0/CheckNums.genruntimeconfig.cache
+/home/samkrt/salt/CheckNums/obj/Debug/net7.0/ref/CheckNums.dll
